@@ -6,5 +6,7 @@
 	echo "git status3<br />";
 	echo "git status4<br />";
 	echo "git status5<br />";
+	echo "git status6<br />";
+	
 	
 ?>
